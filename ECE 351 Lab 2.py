@@ -86,7 +86,7 @@ plt.ylabel('y(t)')
 plt.xlabel('t')
 plt.title('Fig 2 Plot')
 
-#########################Part 3##################
+################Part 3#####################
 #(Time Reversal f(-t))
 t = np.arange(-10, 5 + steps, steps)
 y = func1(-t)
